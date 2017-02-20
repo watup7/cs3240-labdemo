@@ -1,3 +1,3 @@
+from Week5.helper import *
 
-def greeting(msg):
-    print(msg)
+greeting("hey!")
